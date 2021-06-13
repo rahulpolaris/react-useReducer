@@ -1,0 +1,16 @@
+
+.form{
+    margin: 150px auto 0px;
+    font-size: 1.8rem;
+    text-align: center;
+    max-width: 500px;
+}
+.form input{
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.form button{
+    width:90%;
+    height: 10%;
+    padding: 1em 2em;
+}
